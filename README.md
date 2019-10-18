@@ -26,7 +26,7 @@ Then..
 /user/git/myProject username$ cd ..
 /user/git/myProject username$ npm start -- --reset-cache
 ```
-* **This command started the react server. You must run the project xCode or "react-native run-ios" for running project**
+* **npm start command started the react server. You must run the project Xcode or "react-native run-ios" for running project**
 ```
 /user/git/myProject username$ react-native run-ios
 ``` 
