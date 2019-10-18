@@ -3,7 +3,7 @@
 ## iOS
 
 First, you must download project if it is not exists.
-* git clone <PROJECT URL>
+* git clone PROJECT_URL
 
 If you have project,
 * Open terminal and go to project path (eg. cd /user/git/myProject)
@@ -15,7 +15,7 @@ If you have project,
 /user/git/myProject username$ rm -rf Pods
 /user/git/myProject username$ rm -rf Podfile.lock
 
-## then..
+Then..
 
 /user/git/myProject username$ pod install
 ``` 
@@ -26,7 +26,7 @@ If you have project,
 ``` 
 * You can directly run command which you want to simulator
 ```
-/user/git/myProject username$ react-native run-ios --simulator="iPhone 6s"
+/user/git/myProject username$ <b>react-native run-ios --simulator="iPhone 6s"<b>
 ``` 
 
 * Finally, your simulator look like this!
