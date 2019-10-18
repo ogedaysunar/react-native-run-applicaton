@@ -26,7 +26,7 @@ Then..
 /user/git/myProject username$ cd ..
 /user/git/myProject username$ npm start -- --reset-cache
 ```
-* **npm start command started the react server. You must run the project Xcode or "react-native run-ios" for running project**
+* **"npm start" command started the react server. You must run the project Xcode or "react-native run-ios" for running project**
 ```
 /user/git/myProject username$ react-native run-ios
 ``` 
@@ -46,15 +46,10 @@ Then..
 
 ## Android
 
-
-## Installation
-
-See: https://reactnavigation.org/docs/en/getting-started.html
-
-## Code of conduct
-
-This library has adopted a Code of Conduct that we expect project participants to adhere to. Please read the [full text](https://github.com/react-community/react-navigation/blob/master/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
+* **Very soon**
 
 ## License
 
-React Navigation is licensed under the [MIT](https://github.com/react-community/react-navigation/blob/master/LICENSE).
+Ögeday Sunar
+ogeday.sunar@gmail.com
+intecht.net
