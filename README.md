@@ -3,7 +3,7 @@
 ## iOS
 
 First, you must download project if it is not exists.
-* git clone PROJECT_URL
+* git clone "PROJECT_URL"
 
 If you have project,
 * Open terminal and go to project path (eg. cd /user/git/myProject)
@@ -31,6 +31,9 @@ Then..
 
 * Finally, your simulator look like this!
 ![](https://raw.githubusercontent.com/eneko/Ninety-Nine-Swift-Solutions/master/.github/Screenshot%202018-03-06%2021.43.03.png)
+
+## Android
+
 
 ## Installation
 
