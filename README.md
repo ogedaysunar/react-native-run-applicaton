@@ -3,13 +3,13 @@
 ## iOS
 
 First, you must download project if it is not exists.
-* ###### git clone "PROJECT_URL"
+*  **git clone "PROJECT_URL"**
 
 If you have project,
-* Open terminal and go to project path (eg. cd /user/git/myProject)
-* npm install (if you do not have npm, you must download nodejs. https://nodejs.org/en/download/)
-* cd ios
-* pod install (if you see error, delete Pods and Podfile.lock. rm -rf Pods and then rm -rf Podfile.lock -> now run pod install)
+* **Open terminal and go to project path (eg. cd /user/git/myProject)**
+* **npm install (if you do not have npm, you must download nodejs. https://nodejs.org/en/download/)**
+* **cd ios**
+* **pod install (if you see error, delete Pods and Podfile.lock. rm -rf Pods and then rm -rf Podfile.lock -> now run pod install)**
 ```
 /user/git/myProject username$ pod install
 /user/git/myProject username$ rm -rf Pods
@@ -19,21 +19,21 @@ Then..
 
 /user/git/myProject username$ pod install
 ``` 
-* cd ..
-* npm start -- --reset-cache (This command started the react server. You must run the project xCode or "react-native run-ios" for running project)
+* **cd ..**
+* **npm start -- --reset-cache (This command started the react server. You must run the project xCode or "react-native run-ios" for running project)**
 ```
 /user/git/myProject username$ npm start -- --reset-cache 
 ``` 
-* You can directly run command which you want to simulator
+* **You can directly run command which you want to simulator**
 ```
 /user/git/myProject username$ react-native run-ios --simulator="iPhone 6s"
 ``` 
 
-* Finally, your simulator look like this!
+* **Finally, your simulator look like this!**
 
 ![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/phoneBundle.jpg)
 
-* Your terminal look like this!
+* **Your terminal look like this!**
 
 ![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/terminaBundle.png)
 
