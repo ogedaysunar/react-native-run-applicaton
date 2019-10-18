@@ -30,7 +30,7 @@ Then..
 ``` 
 
 * Finally, your simulator look like this!
-![](https://raw.githubusercontent.com/eneko/Ninety-Nine-Swift-Solutions/master/.github/Screenshot%202018-03-06%2021.43.03.png)
+![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/phoneBundle.png)
 
 ## Android
 
