@@ -26,12 +26,17 @@ Then..
 ``` 
 * You can directly run command which you want to simulator
 ```
-/user/git/myProject username$ <b>react-native run-ios --simulator="iPhone 6s"<b>
+/user/git/myProject username$ react-native run-ios --simulator="iPhone 6s"
 ``` 
 
 * Finally, your simulator look like this!
 
 ![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/phoneBundle.png)
+
+* Your terminal look like this!
+
+![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/terminaBundle.png)
+
 
 ## Android
 
