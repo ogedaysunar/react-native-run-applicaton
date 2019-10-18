@@ -3,7 +3,7 @@
 ## iOS
 
 First, you must download project if it is not exists.
-* git clone "PROJECT_URL"
+* ###### git clone "PROJECT_URL"
 
 If you have project,
 * Open terminal and go to project path (eg. cd /user/git/myProject)
