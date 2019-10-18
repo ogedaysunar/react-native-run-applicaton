@@ -14,7 +14,9 @@ If you have project,
 /user/git/myProject username$ pod install
 /user/git/myProject username$ rm -rf Pods
 /user/git/myProject username$ rm -rf Podfile.lock
-/// then..
+
+## then..
+
 /user/git/myProject username$ pod install
 ``` 
 * cd ..
