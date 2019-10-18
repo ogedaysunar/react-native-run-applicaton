@@ -9,7 +9,9 @@ If you have project,
 * **Open terminal and go to project path (eg. cd /user/git/myProject)**
 ```
 
-/user/git/myProject username$ npm install // if you do not have npm, you must download nodejs. https://nodejs.org/en/download/
+/user/git/myProject username$ npm install 
+
+// if you do not have npm, you must download nodejs. https://nodejs.org/en/download/
 ``` 
 * **cd ios**
 * **pod install (if you see error, delete Pods and Podfile.lock. rm -rf Pods and then rm -rf Podfile.lock -> now run pod install)**
