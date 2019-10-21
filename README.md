@@ -89,6 +89,14 @@ Then, you can start the emulator and run the project.
 ```
 /user/git/myProject username$ react-native run-android
 ``` 
+* **Finally, your emulator look like this!**
+
+![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/phoneBundle.jpg)
+
+* **Your terminal look like this!**
+
+![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/terminaBundle.png)
+
 
 ## License
 
