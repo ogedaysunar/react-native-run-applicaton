@@ -91,11 +91,11 @@ Then, you can start the emulator and run the project.
 ``` 
 * **Finally, your emulator look like this!**
 
-![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/phoneBundle.jpg)
+![]()
 
 * **Your terminal look like this!**
 
-![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/terminaBundle.png)
+![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/androidbundle.png)
 
 
 ## License
