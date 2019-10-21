@@ -70,19 +70,19 @@ If you have not emulator, you must download emulator.
 * **You can download like this**
 1. Go to AVD Manager
 
-![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/terminaBundle.png)
+![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/screen1.png)
 
 2. Click "Create Virtual Device..."
 
-![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/terminaBundle.png)
+![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/screen2.png)
 
 3. Select emulator and click the next button
 
-![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/terminaBundle.png)
+![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/screen3.png)
 
 4. Select software and click the next button
 
-![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/terminaBundle.png)
+![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/screen4.png)
 
 Then, you can start the emulator and run the project.
 
