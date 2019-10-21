@@ -1,5 +1,7 @@
 # React Native Run Application
 
+This page shows how to run your react-native application from gitlab.
+
 ## iOS
 
 First, you must download project if it is not exists.
