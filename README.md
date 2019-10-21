@@ -70,6 +70,6 @@ If you have not emulator, you must download emulator.
 
 ## License
 
-Ögeday Sunar
-ogeday.sunar@gmail.com
-intecht.net
+* Ögeday Sunar
+* ogeday.sunar@gmail.com
+* intecht.net
