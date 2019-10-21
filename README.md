@@ -67,6 +67,28 @@ If you do not have npm, you must download nodejs. https://nodejs.org/en/download
 Then, Open Andorid Studio and open Android project folder (myProject/android) then, start emulator and run project.
 If you have not emulator, you must download emulator. 
 ``` 
+* **You can download like this**
+1. Go to AVD Manager
+
+![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/terminaBundle.png)
+
+2. Click "Create Virtual Device..."
+
+![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/terminaBundle.png)
+
+3. Select emulator and click the next button
+
+![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/terminaBundle.png)
+
+4. Select software and click the next button
+
+![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/terminaBundle.png)
+
+Then, you can start the emulator and run the project.
+
+```
+/user/git/myProject username$ react-native run-android
+``` 
 
 ## License
 
