@@ -91,7 +91,7 @@ Then, you can start the emulator and run the project.
 ``` 
 * **Finally, your emulator look like this!**
 
-![]()
+![](https://raw.githubusercontent.com/ogedaysunar/react-native-run-applicaton/master/images/androidphone.png)
 
 * **Your terminal look like this!**
 
