@@ -46,7 +46,27 @@ Then..
 
 ## Android
 
-* **Very soon**
+First, you must download project if it is not exists.
+*  **git clone "PROJECT_URL"**
+
+If you have project,
+* **Open terminal and go to project path (eg. cd /user/git/myProject)**
+```
+/user/git/myProject username$ npm install 
+
+If you do not have npm, you must download nodejs. https://nodejs.org/en/download/
+``` 
+* **We need to do this to run on Android Emulator**
+```
+/user/git/myProject username$ npx jetifier
+``` 
+* **Now we can stand up our project**
+```
+/user/git/myProject username$ npm start -- --reset-cache
+
+Then, Open Andorid Studio and open Android project folder (myProject/android) then, start emulator and run project.
+If you have not emulator, you must download emulator. 
+``` 
 
 ## License
 
